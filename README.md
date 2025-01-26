@@ -1,8 +1,8 @@
-# [Project Name] 🎯
+# recipe finder] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [star]
 
 
 ### Team Members
